@@ -8,3 +8,11 @@
     outline: none;
     font-family: 'Roboto Flex', sans-serif;
 }
+
+.container{
+width: 90%;
+max-width: 1200px;
+margin: 0 auto; /* centra un elemento de manera vertical*/
+overflow: hidden; /* todo lo que salga de este contenedor se oculte */
+background-color: #000;
+}
