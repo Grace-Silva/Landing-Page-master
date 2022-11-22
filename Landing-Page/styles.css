@@ -199,3 +199,16 @@ z-index: -1; /* para mostrar el contenido de*/
     width: 100%;
     display: block;
 }
+
+.route{
+    text-align: center;
+}
+
+.route-table{
+    padding-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.5em;
+    justify-content: space-evenly;
+    align-items: center;
+}
